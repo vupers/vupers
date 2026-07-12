@@ -2,14 +2,6 @@
 
 **Digital Twin Engineer** · Quantitative Finance · ML/NLP · Data Engineering
 
----
-
-I build real-time simulation and optimization systems for industrial energy networks at [Gradyent](https://www.gradyent.ai). My background spans quantitative trading, statistical modelling, and large-scale data pipelines — with a recurring focus on making complex systems tractable through computation.
-
-Currently interested in the intersection of physics-informed ML, time-series forecasting, and high-performance data infrastructure.
-
----
-
 ### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
